@@ -16,7 +16,7 @@
         <spring.version>4.3.14.RELEASE</spring.version>
         <!--数据库相关-->
         <!--<mysql.version>6.0.6</mysql.version>-->
-        <mysql.version>5.1.47</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <!--此处设置可以使控制台打印的内容不会乱码-->
         <argLine>-Dfile.encoding=UTF-8</argLine>
     </properties>
