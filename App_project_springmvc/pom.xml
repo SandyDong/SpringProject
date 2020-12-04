@@ -139,7 +139,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.12</version>
+            <version>4.13.1</version>
         </dependency>
         <!--Spring与Kafka集成【本应用当作成服务提供端】-->
         <dependency>
